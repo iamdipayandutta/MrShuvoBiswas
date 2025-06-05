@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrshuvobiswas&label=Profile%20views&color=0e75b6&style=flat" alt="mrshuvobiswas" /> </p>
 
-- 🔭 I’m currently working on [PRIMEXIA ESPORTS](https://primexiaesports.com/)
+- 🔭 I’m currently working on [PRIMEXIA ESPORTS](https://spedorio.site/)
 
 - 📫 How to reach me **shuvo@primexiaesports.com**
 
